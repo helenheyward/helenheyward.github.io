@@ -1,2 +1,2 @@
 # helenheyward.github.io
-Testing how to create a web file
+This is a test to see how a web file works within GitHub.
